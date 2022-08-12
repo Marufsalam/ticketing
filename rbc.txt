@@ -7,3 +7,4 @@
 7. and your qs will be answered
 8. this line was added using echo to see how it appends to this file
 9. adding new text to branch bugfix
+10. adding line 10 :)
