@@ -1,0 +1,1 @@
+This line is added from CLI after git fetch and merge from master
