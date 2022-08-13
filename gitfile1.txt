@@ -1,1 +1,2 @@
 This line is added from CLI after git fetch and merge from master
+Pulling directly from the remote repo to local repo
